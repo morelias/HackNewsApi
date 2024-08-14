@@ -19,7 +19,7 @@ Requirements:
 - Clone the repository from GitHub
 - Open the solution file *HackerNewsApi.sln* with Visual Studio or Visual Studio Code
 - Run the project *HackerNewsApi.csproj*
-- Once the project compiles and starts it will show a screen to call the Endpoint *BestStories*, this endpoint requires the *limit* parameter to get the *n* numbers of stories from the Hacker News API.
+- Once the project compiles and starts it will show a screen to call the endpoint *BestStories*, this endpoint requires the *limit* parameter to get the *n* numbers of stories from the Hacker News API.
 - (Optional) Run the project *HackerNewsApiTest* to review the unit tests of this project.
 
 ## Assumptions
